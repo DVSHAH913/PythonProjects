@@ -9,6 +9,7 @@ Welcome to my Python projects portfolio. Here, you'll find a collection of proje
 - [Linear Regression Project](#linear-regression-project)
 - [Stock Market Price Prediction Project](#stock-market-price-prediction-project)
 - [Flask Project](#flask-project)
+- [Mobile service center project](#mobile-service-center)
 - [Logistic Regression Project](#logistic-regression-project)
 - [KNN Project](#knn-project)
 - [K Means Clustering Project](#k-means-clustering-project)
@@ -42,6 +43,12 @@ This was my semester 3 Python project where I had to cleaned data in Excel, stor
 This was my semester 3 full-stack development project, where I learned Flask from my Coursera course 'Creating your first web page with Python and Flask,' and I've uploaded the certificate in my repository. The project entails a website providing stock market predictions and news. It includes Home, Prediction, News, Learn, About Us, and Contact Us sections. The Home page showcases company images, Prediction offers next day closing price, News provides daily news via an accordion, Learn imparts quick tips on indicators, About Us showcases company details, and Contact Us is a modal in the navigation bar. App.py links the pages, handles database, and performs predictive calculations.
 <a name="flask-project"></a>
 [Back to Content](#content)
+
+### Mobile service center project
+I developed a mobile and laptop service center app for both customers and staff, enabling service requests, cost estimation, service tracking, and management. The Owner class authenticated users, managed data, and provided various functionalities. The Customer class facilitated logins, registrations, and work status checks. The program efficiently calculated service costs and completion times based on device type and service, enhancing overall service center operations.
+<a name="mobile-service-center"></a>
+[Back to Content](#content)
+
 
 ### Logistic Regression Project
 I was assigned this project in my udemy course where I had to work with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. I tried to create a model that will predict whether or not they will click on an ad based off the features of that user.
